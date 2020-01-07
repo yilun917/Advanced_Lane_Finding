@@ -120,4 +120,4 @@ The video is reasonably working with inaccuracy at the bottom and a few frames o
 My pipeline is a bit inaccurate on the bottom of the image. And it will fail at the bridge in the video due to the high contrast in the video causing by sunlight and tree shadows. If I have more time, I think it would be better to implement what I did in project 1 into this fit. Combine both of the fitting to make it more accurate.
 
 ## LISCENSE
-[LICENSE](LICENSE)
+[MIT LICENSE](LICENSE)
